@@ -1,0 +1,10 @@
+C:\CMPE2800\REVIEW_LAB01_CMPE2800_Wonhyuk\Tess_ReviewLab01\bin\Debug\Tess_ReviewLab01.exe.config
+C:\CMPE2800\REVIEW_LAB01_CMPE2800_Wonhyuk\Tess_ReviewLab01\bin\Debug\Tess_ReviewLab01.exe
+C:\CMPE2800\REVIEW_LAB01_CMPE2800_Wonhyuk\Tess_ReviewLab01\bin\Debug\Tess_ReviewLab01.pdb
+C:\CMPE2800\REVIEW_LAB01_CMPE2800_Wonhyuk\Tess_ReviewLab01\bin\Debug\REVIEW_LAB01_CMPE2800_Wonhyuk.dll
+C:\CMPE2800\REVIEW_LAB01_CMPE2800_Wonhyuk\Tess_ReviewLab01\bin\Debug\REVIEW_LAB01_CMPE2800_Wonhyuk.pdb
+C:\CMPE2800\REVIEW_LAB01_CMPE2800_Wonhyuk\Tess_ReviewLab01\obj\Debug\Tess_ReviewLab01.csproj.AssemblyReference.cache
+C:\CMPE2800\REVIEW_LAB01_CMPE2800_Wonhyuk\Tess_ReviewLab01\obj\Debug\Tess_ReviewLab01.csproj.CoreCompileInputs.cache
+C:\CMPE2800\REVIEW_LAB01_CMPE2800_Wonhyuk\Tess_ReviewLab01\obj\Debug\Tess_ReviewLab01.csproj.CopyComplete
+C:\CMPE2800\REVIEW_LAB01_CMPE2800_Wonhyuk\Tess_ReviewLab01\obj\Debug\Tess_ReviewLab01.exe
+C:\CMPE2800\REVIEW_LAB01_CMPE2800_Wonhyuk\Tess_ReviewLab01\obj\Debug\Tess_ReviewLab01.pdb
